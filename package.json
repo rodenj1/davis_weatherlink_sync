@@ -1,7 +1,8 @@
 {
   "name": "weather_sync",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sync Davis Instruments Weatherlink to Wunderground",
+  "repository": "git@github.com:rodenj1/davis_weatherlink_sync.git",
   "main": "sync.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
